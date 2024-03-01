@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <a href="">Login with Google</a>
+    </div>
   )
 }
 
