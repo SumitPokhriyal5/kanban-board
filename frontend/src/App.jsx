@@ -1,9 +1,9 @@
-import React from 'react'
+import AllRoutes from './components/AllRoutes'
 
 const App = () => {
   return (
     <div>
-      <a href="">Login with Google</a>
+      <AllRoutes/>
     </div>
   )
 }
